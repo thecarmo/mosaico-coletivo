@@ -9,5 +9,4 @@ void equipe01() {
   //triangulo pequeno da direita
   fill(#FCE6C2);
   triangle(150,150,150,130,130,150);
-
 }
