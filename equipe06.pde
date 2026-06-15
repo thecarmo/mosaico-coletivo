@@ -1,0 +1,2 @@
+void equipe06() {
+}
